@@ -1,0 +1,12 @@
+:root {
+}
+
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+  font-family: 'Outfit Variable', sans-serif;
+}
